@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/codext/project/flutask/BuildConfig.java
+ com.codext.project.flutask.BuildConfig

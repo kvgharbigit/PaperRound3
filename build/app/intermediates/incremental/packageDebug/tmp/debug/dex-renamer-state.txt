@@ -1,0 +1,4 @@
+#Tue Mar 08 20:33:35 AEDT 2022
+base.0=/Users/kayvangharbi/Documents/GitHub/Flutask/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
