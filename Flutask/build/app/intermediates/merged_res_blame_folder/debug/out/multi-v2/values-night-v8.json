@@ -1,17 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kayvangharbi/Documents/GitHub/PaperRound3/Flutask/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "C:\\Users\\sohil\\Desktop\\Jobs\\Development\\PaperRound3\\Flutask\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/kayvangharbi/Documents/GitHub/PaperRound3/Flutask/android/app/src/main/res/values-night/styles.xml",
+                    "source": "C:\\Users\\sohil\\Desktop\\Jobs\\Development\\PaperRound3\\Flutask\\android\\app\\src\\main\\res\\values-night\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sohil\\Desktop\\Jobs\\Development\\PaperRound3\\Flutask\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "172,815",
+                        "startOffsets": "175,829",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "464,979"
+                        "endOffsets": "471,995"
                     },
                     "to": {
                         "startLines": "3,8",
@@ -20,16 +37,6 @@
                         "endLines": "7,10",
                         "endColumns": "12,12",
                         "endOffsets": "404,573"
-                    }
-                },
-                {
-                    "source": "/Users/kayvangharbi/Documents/GitHub/PaperRound3/Flutask/android/app/src/main/res/values-night/ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
                     }
                 }
             ]
